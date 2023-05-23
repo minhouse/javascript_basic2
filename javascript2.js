@@ -1,3 +1,4 @@
+//JavaScript basic 2
 while (true) {
   var result = prompt("日本の首都は？");
   if (result === "東京") {
